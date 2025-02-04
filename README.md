@@ -1,2 +1,2 @@
 # bot.or.th
-Microsoft.finance.c
+Microsoft.finance.com
